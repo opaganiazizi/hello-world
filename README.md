@@ -1,3 +1,3 @@
 # hello-world
 
-Je suis la guide Github.
+Je suis le guide Github.
